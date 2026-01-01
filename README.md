@@ -4,7 +4,6 @@ A simple **Restaurant Food Menu** web page built using **HTML, CSS & JavaScript*
 This project displays a menu of food items and is a great beginner-friendly assignment for practicing front-end basics like DOM manipulation, styling, and layout.
 
 🔗 **Live Demo:** https://azhardeveloper73.github.io/Food-Menu-Assignment/  
-*(Update this link if your actual deployed URL is different)*
 
 ---
 
