@@ -60,8 +60,3 @@ Open a Pull Request
 
 Created by @azhardeveloper73 — feel free to reach out for suggestions or ideas! 🚀
 
----
-
-### ⚡ Want me to **deploy this live for you** (with GitHub Pages) & add the exact link in the README?  
-Just tell me **yes**, and I’ll guide you step-by-step.
-::contentReference[oaicite:0]{index=0}
